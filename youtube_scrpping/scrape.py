@@ -10,7 +10,7 @@ if len(sys.argv) != 3:
 vid_id = sys.argv[1]
 output_file = sys.argv[2]
 yt_client = build(
-    "youtube", "v3", developerKey="AIzaSyDn9WH35r76LZV3eqbDxRg2S4jr20_8qNk"
+    #"youtube", "v3", developerKey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 )
 
 
